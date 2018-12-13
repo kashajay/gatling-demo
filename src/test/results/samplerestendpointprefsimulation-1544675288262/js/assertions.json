@@ -1,0 +1,10 @@
+{
+  "simulation": "org.smarttechie.SampleRESTEndPointPrefSimulation",
+  "simulationId": "samplerestendpointprefsimulation",
+  "start": 1544675288262,
+  "description": "null",
+  "scenarios": ["Posts_Pref_Simulation"],
+  "assertions": [
+
+  ]
+}
